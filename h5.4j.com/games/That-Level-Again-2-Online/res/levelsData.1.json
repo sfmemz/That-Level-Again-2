@@ -1,0 +1,80 @@
+{
+	"level1": {
+		"label1": "1.Plain and simple",
+		"label2": "It is lonely here",
+		"keyInRoom1": true,
+		"canGetKey": true
+	},
+	"level2": {
+		"label1": "2.Where did I leave it ?",
+		"label2": "Here it is !",
+		"keyInRoom1": false,
+		"canGetKey": true
+	},
+	"level3": {
+		"label1": "3.The Moon",
+		"label2": "It is lonely here",
+		"keyInRoom1": true,
+		"canGetKey": true
+	},
+	"level4": {
+		"label1": "4.Can not take it",
+		"label2": "It is lonely here",
+		"keyInRoom1": true,
+		"canGetKey": false
+	},
+	"level5": {
+		"label1": "5.Use your fingers",
+		"label2": "It is lonely here",
+		"keyInRoom1": true,
+		"canGetKey": false
+	},
+	"level6": {
+		"label1": "6.Emergency exit",
+		"label2": "But its not save",
+		"keyInRoom1": true,
+		"canGetKey": false
+	},
+	"level7": {
+		"label1": "7.No jumps",
+		"label2": "It is lonely here",
+		"keyInRoom1": true,
+		"canGetKey": true
+	},
+	"level8": {
+		"label1": "8.Is it there again ?",
+		"label2": "Better be quiet",
+		"keyInRoom1": false,
+		"canGetKey": true
+	},
+	"level9": {
+		"label1": "9.Rearrangement",
+		"label2": "More space here",
+		"keyInRoom1": false,
+		"canGetKey": false
+	},
+	"level10": {
+		"label1": "10.Think before you act",
+		"label2": "It is lonely here",
+		"keyInRoom1": true,
+		"canGetKey": true
+	},
+	"level11": {
+		"label1": "11.Do not trust your eyes",
+		"label2": "What can be here?",
+		"keyInRoom1": true,
+		"canGetKey": false
+	},
+	"level12": {
+		"label1": "12.You are a ninja",
+		"label2": "What can be here?",
+		"keyInRoom1": true,
+		"canGetKey": true
+	},
+	"level13": {
+		"label1": "",
+		"label2": "It is lonely here",
+		"keyInRoom1": true,
+		"canGetKey": false
+	}
+}

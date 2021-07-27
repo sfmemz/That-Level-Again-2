@@ -1,0 +1,1 @@
+{"languageJson": false, "gameId": "That-Level-Again-2-Online", "version": 1.1, "language": "en", "domainAllowed": [], "preloader": "Preloader", "frameRate": 60, "height": 720, "width": 960, "rotateImg": "", "loading": "res/logo.png", "project_type": "javascript", "id": "gameCanvas", "debugMode": 1, "renderMode": 0, "showFPS": false, "landscape": false}
